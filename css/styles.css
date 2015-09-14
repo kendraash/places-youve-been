@@ -1,0 +1,13 @@
+#place {
+  display: none;
+}
+
+.clickedPlace {
+  cursor: pointer;
+
+}
+.clickedPlace:hover {
+  text-decoration: underline;
+  color: #009933;
+  
+}
